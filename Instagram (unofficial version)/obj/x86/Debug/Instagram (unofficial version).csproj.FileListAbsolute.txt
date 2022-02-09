@@ -1,0 +1,25 @@
+H:\asef\Delevopment\C# Windows Form\Instagram (unofficial version)\Instagram (unofficial version)\bin\x86\Debug\Instagram (unofficial version).exe.config
+H:\asef\Delevopment\C# Windows Form\Instagram (unofficial version)\Instagram (unofficial version)\bin\x86\Debug\Instagram (unofficial version).exe
+H:\asef\Delevopment\C# Windows Form\Instagram (unofficial version)\Instagram (unofficial version)\bin\x86\Debug\Instagram (unofficial version).pdb
+H:\asef\Delevopment\C# Windows Form\Instagram (unofficial version)\Instagram (unofficial version)\bin\x86\Debug\aa\Instagram (unofficial version).resources.dll
+H:\asef\Delevopment\C# Windows Form\Instagram (unofficial version)\Instagram (unofficial version)\bin\x86\Debug\Microsoft.Owin.dll
+H:\asef\Delevopment\C# Windows Form\Instagram (unofficial version)\Instagram (unofficial version)\bin\x86\Debug\Microsoft.Owin.Security.dll
+H:\asef\Delevopment\C# Windows Form\Instagram (unofficial version)\Instagram (unofficial version)\bin\x86\Debug\Newtonsoft.Json.dll
+H:\asef\Delevopment\C# Windows Form\Instagram (unofficial version)\Instagram (unofficial version)\bin\x86\Debug\Owin.dll
+H:\asef\Delevopment\C# Windows Form\Instagram (unofficial version)\Instagram (unofficial version)\bin\x86\Debug\Owin.Security.Providers.Instagram.dll
+H:\asef\Delevopment\C# Windows Form\Instagram (unofficial version)\Instagram (unofficial version)\bin\x86\Debug\Microsoft.Owin.xml
+H:\asef\Delevopment\C# Windows Form\Instagram (unofficial version)\Instagram (unofficial version)\bin\x86\Debug\Microsoft.Owin.Security.xml
+H:\asef\Delevopment\C# Windows Form\Instagram (unofficial version)\Instagram (unofficial version)\bin\x86\Debug\Newtonsoft.Json.xml
+H:\asef\Delevopment\C# Windows Form\Instagram (unofficial version)\Instagram (unofficial version)\obj\x86\Debug\Instagram (unofficial version).csprojAssemblyReference.cache
+H:\asef\Delevopment\C# Windows Form\Instagram (unofficial version)\Instagram (unofficial version)\obj\x86\Debug\Instagram__unofficial_version_.MainFrm.resources
+H:\asef\Delevopment\C# Windows Form\Instagram (unofficial version)\Instagram (unofficial version)\obj\x86\Debug\Instagram__unofficial_version_.Properties.Resources.resources
+H:\asef\Delevopment\C# Windows Form\Instagram (unofficial version)\Instagram (unofficial version)\obj\x86\Debug\Instagram__unofficial_version_.Setting.resources
+H:\asef\Delevopment\C# Windows Form\Instagram (unofficial version)\Instagram (unofficial version)\obj\x86\Debug\Instagram__unofficial_version_.MainFrm.aa.resources
+H:\asef\Delevopment\C# Windows Form\Instagram (unofficial version)\Instagram (unofficial version)\obj\x86\Debug\Instagram (unofficial version).csproj.GenerateResource.cache
+H:\asef\Delevopment\C# Windows Form\Instagram (unofficial version)\Instagram (unofficial version)\obj\x86\Debug\Instagram (unofficial version).csproj.CoreCompileInputs.cache
+H:\asef\Delevopment\C# Windows Form\Instagram (unofficial version)\Instagram (unofficial version)\obj\x86\Debug\aa\Instagram (unofficial version).resources.dll
+H:\asef\Delevopment\C# Windows Form\Instagram (unofficial version)\Instagram (unofficial version)\obj\x86\Debug\Instagram (unofficial version).csproj.CopyComplete
+H:\asef\Delevopment\C# Windows Form\Instagram (unofficial version)\Instagram (unofficial version)\obj\x86\Debug\Instagram (unofficial version).exe
+H:\asef\Delevopment\C# Windows Form\Instagram (unofficial version)\Instagram (unofficial version)\obj\x86\Debug\Instagram (unofficial version).pdb
+H:\asef\Delevopment\C# Windows Form\Instagram (unofficial version)\Instagram (unofficial version)\obj\x86\Debug\Instagram__unofficial_version_.Download_Frm.resources
+H:\asef\Delevopment\C# Windows Form\Instagram (unofficial version)\Instagram (unofficial version)\bin\x86\Debug\InstagramWrapper.dll
